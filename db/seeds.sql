@@ -1,4 +1,4 @@
-INSERT INTO employees (first_name, last_name, industry_connected)
+INSERT INTO employees (first_name, last_name, roll_id)
 VALUES
   ('Ronald', 'Firbank', 1),
   ('Virginia', 'Woolf', 1),
